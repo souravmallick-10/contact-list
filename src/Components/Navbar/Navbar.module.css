@@ -1,0 +1,20 @@
+/* Styling for the nav-bar */
+nav{
+    background-color: black;
+    height: 7vh;
+    align-items: center;
+    padding-left: 10px;
+    display: flex;
+    justify-content: left;
+}
+
+h2{
+    color: white;
+}
+
+.heading{
+    font-weight: 500;
+}
+.heading:hover{
+    color: rgba(69, 69, 246, 0.712);
+}
